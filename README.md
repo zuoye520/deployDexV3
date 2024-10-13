@@ -106,6 +106,6 @@ yarn build
 ## 部署
 
 ```text
-   yarn start -pk 0x6db2f1a715183510209e5c8fa1abe9a3fc3b5f9450e45fe4adf06255d982920c -j https://beta.evmapi.nuls.io -w9 0x888279a0df02189078e3E68fbD93D35183E1Fc69 -ncl NULS -o 0x3d0F43d54d3b68ca3e65a60039e9c099793A545d
+   yarn start -pk <private-key> -j https://beta.evmapi.nuls.io -w9 0x888279a0df02189078e3E68fbD93D35183E1Fc69 -ncl NULS -o 0x3d0F43d54d3b68ca3e65a60039e9c099793A545d
                            display help for command
 ```
